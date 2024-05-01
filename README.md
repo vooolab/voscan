@@ -22,7 +22,7 @@ sudo apt-get install python3 python3-pip
 git clone https://github.com/vooolab/voscan/
 cd voscan
 python setup.py install
-python3 vosql.py --help</pre>
+python3 voscan.py --help</pre>
 <b>
 
 <h3>Kullanım</h3>
