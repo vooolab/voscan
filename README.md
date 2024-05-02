@@ -14,14 +14,14 @@ Kurulum
 <pre>pkg install python
 git clone https://github.com/vooolab/voscan/
 cd voscan
-python setup.py install
+python setup.py
 python voscan.py --help</pre>
 <b>Linux Dağıtımları</b>
 <pre>sudo apt-get update
 sudo apt-get install python3 python3-pip
 git clone https://github.com/vooolab/voscan/
 cd voscan
-python setup.py install
+python setup.py
 python3 voscan.py --help</pre>
 <b>
 
